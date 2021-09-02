@@ -1,1 +1,1 @@
-from .core import hmm
+from .core import hmm, pretty_sum, pretty_multiply
